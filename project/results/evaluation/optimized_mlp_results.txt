@@ -1,0 +1,10 @@
+Confusion Matrix:
+[[1001    4]
+ [ 197  798]]
+
+Classification Report:
+Accuracy: 0.8995
+F1 Score: 0.8985
+Recall: 0.8995
+Precision: 0.9149
+ROC AUC: 0.9054
